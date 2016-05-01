@@ -27,8 +27,8 @@
 
 	<h2><?php _e( 'DX Unanswered Comments', 'dxuc' ); ?></h2>
 	
-	<p><?php _e( 'Enter the username of the WordPress user who is supposed to reply to commenters.', 'dxuc' ); ?></p>
-	<p><?php _e( 'You can several usernames separated by commas.', 'dxuc' ); ?></p>
+	<p><?php _e( 'Enter the username of the WordPress user whose comments don\'t have to be filtered and the users who are supposed to reply to commenters.', 'dxuc' ); ?></p>
+	<p><?php _e( 'You can several usernames separated by commas. Example: username1,username2,username3', 'dxuc' ); ?></p>
 	<p><?php _e( 'Enable comment count in the top links comment filters if you need it.', 'dxuc' ); ?></p>
 	
 	<form method="POST">
